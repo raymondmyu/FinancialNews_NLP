@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 
 all_reuters.txt
+all_reuters_content.txt
